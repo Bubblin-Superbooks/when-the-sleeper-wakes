@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "When the Sleeper Wakes",
-  "type": "text"
+  "type": "text",
+  "book_id": 559
 }
